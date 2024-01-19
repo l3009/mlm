@@ -1,0 +1,13 @@
+{
+    "wait": "*Loading.....*",
+    "error": {
+        "Iv": "Link yang kamu berikan tidak valid",
+        "api": "Ups, terjadi kesalahan pada botkey, silahkan hubungi owner untuk memperbaikinya"
+    },
+    "OnlyGrup": "Perintah ini hanya bisa digunakan di Grup",
+    "OnlyPM": "Perintah ini hanya bisa digunakan di private message✉️",
+    "GrupAdmin": "Perintah ini hanya bisa digunakan oleh Admin Grup",
+    "BotAdmin": "Bot Harus menjadi admin👑",
+    "OnlyOwner": "Perintah ini hanya dapat digunakan oleh Ahmad👤",
+    "OnlyPrem": "Perintah ini khusus member premium💳"
+}
